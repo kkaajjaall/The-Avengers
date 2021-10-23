@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/The-Avengers/static/css/main.2163189c.chunk.css",
+    "main.js": "/The-Avengers/static/js/main.402bdff1.chunk.js",
+    "main.js.map": "/The-Avengers/static/js/main.402bdff1.chunk.js.map",
+    "runtime-main.js": "/The-Avengers/static/js/runtime-main.c22d0144.js",
+    "runtime-main.js.map": "/The-Avengers/static/js/runtime-main.c22d0144.js.map",
+    "static/js/2.793af25f.chunk.js": "/The-Avengers/static/js/2.793af25f.chunk.js",
+    "static/js/2.793af25f.chunk.js.map": "/The-Avengers/static/js/2.793af25f.chunk.js.map",
+    "index.html": "/The-Avengers/index.html",
+    "static/css/main.2163189c.chunk.css.map": "/The-Avengers/static/css/main.2163189c.chunk.css.map",
+    "static/js/2.793af25f.chunk.js.LICENSE.txt": "/The-Avengers/static/js/2.793af25f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c22d0144.js",
+    "static/js/2.793af25f.chunk.js",
+    "static/css/main.2163189c.chunk.css",
+    "static/js/main.402bdff1.chunk.js"
+  ]
+}
